@@ -1,5 +1,5 @@
 # Hello World!, I'm Ali Raza, a PK Frontend Developer 👋🏼:
- <p>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik</p>
+ <p>👨🏼‍🎓 studying media based computer science at The Islamia Univeristy Of Bahawalpur</p>
  <p>👨🏼‍💻 working as a frontend developer since 2024</p>
 
 # 💻 Tech Stack:
